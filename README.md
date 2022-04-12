@@ -1,2 +1,2 @@
-# sarkarinaukri.github.io
+# sarkariresult.github.io
 My static Website
